@@ -1,0 +1,7 @@
+streamlit
+langchain_google_genai
+langchain
+langchain_community
+faiss-cpu
+langchain_huggingface
+bs4
